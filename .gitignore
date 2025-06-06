@@ -10,11 +10,16 @@ lib
 *.o
 *.so*
 *.lo
-*.P*
+*.Po
+*.Plo
 *.la*
 *.a
 *.pc
+!soundtouch.pc.in
 *config*
+!configure.ac
+!SoundTouchConfig.cmake.in
+!script-*-config.ps1
 Makefile
 Makefile.in
 .libs
