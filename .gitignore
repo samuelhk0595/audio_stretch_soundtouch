@@ -52,4 +52,4 @@ source/android-lib/.externalNativeBuild
 build*
 CMakeFiles
 CMakeCache.txt
-*.cmake
+# *.cmake
